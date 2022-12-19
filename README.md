@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -24,6 +24,9 @@ This is a web based application developed for health related based website in in
 - we also provide chat bot for more information
 
 ## Screenshots
+
+![Screenshot (988)](https://user-images.githubusercontent.com/117905222/208364428-5a03bb8d-8466-4c10-8224-580f81345925.png)
+![Screenshot (989)](https://user-images.githubusercontent.com/117905222/208364433-27889df3-038c-421d-9b4c-c9e931000b87.png)
 ![Screenshot (411)](https://user-images.githubusercontent.com/117905222/205566071-0275c8ad-48ae-446e-a06a-164b6f6e3993.png)
 ![Screenshot (412)](https://user-images.githubusercontent.com/117905222/205566100-95425763-4c8a-47b7-964d-7e03a1511fb7.png)
 ![Screenshot (413)](https://user-images.githubusercontent.com/117905222/205566344-6ce9c232-73a0-40ce-af11-8d3a50d7110c.png)
@@ -62,3 +65,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
